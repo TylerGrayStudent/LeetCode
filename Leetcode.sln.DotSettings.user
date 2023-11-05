@@ -18,5 +18,10 @@
     &lt;TestId&gt;xUnit::DB8A799E-1E4B-4936-890A-DE13D2EFB508::net7.0::LeetCode.Tests.SymmetricTree_Should&lt;/TestId&gt;&#xD;
     &lt;TestId&gt;xUnit::DB8A799E-1E4B-4936-890A-DE13D2EFB508::net7.0::LeetCode.Tests.MaximumDepthOfBinaryTree_Should&lt;/TestId&gt;&#xD;
     &lt;TestId&gt;xUnit::DB8A799E-1E4B-4936-890A-DE13D2EFB508::net7.0::LeetCode.Tests.PascalsTriangle_Should&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::DB8A799E-1E4B-4936-890A-DE13D2EFB508::net7.0::LeetCode.Tests.PascallsTriangleII_Should&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::DB8A799E-1E4B-4936-890A-DE13D2EFB508::net7.0::LeetCode.Tests.BestTimetoBuyandSellStock_Should&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::DB8A799E-1E4B-4936-890A-DE13D2EFB508::net7.0::LeetCode.Tests.ValidPalindrome_Should&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::DB8A799E-1E4B-4936-890A-DE13D2EFB508::net7.0::LeetCode.Tests.SingleNumber_Should&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::DB8A799E-1E4B-4936-890A-DE13D2EFB508::net7.0::LeetCode.Tests.LinkedListCycle_Should&lt;/TestId&gt;&#xD;
   &lt;/TestAncestor&gt;&#xD;
 &lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>
